@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Muhammad Dawood Saleem, an aspiring Data Scientist and Computer Science student at Iqra University, passionate about transforming data into meaningful insights and intelligent solutions.<br><br>I have hands on experience with Supervised and Unsupervised Machine Learning, along with practical knowledge of Data Cleaning and Analysis using Pandas and Excel. I also possess a strong background in Java and have completed DSA based projects, which has enhanced my problem solving skills.<br><br>Currently, I’m expanding my expertise in Database through MySQL to strengthen my understanding of data storage and querying. In the near future, I plan to dive deeper into Deep Learning to explore advanced AI techniques. My goal is to develop data driven solutions that solve complex problems and make a meaningful impact in the fields of Artificial Intelligence and Data Science.
 
 
